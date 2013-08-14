@@ -1,0 +1,479 @@
+/*** browser reset - do not change or remove ***/
+
+/* fix for firefox printing issues */
+@media print {
+  * { overflow: visible !important; }
+}
+ 
+/*	browser reset	***************************************************************************/
+a, abbr, acronym, address, big, blockquote, body, button, caption, cite, code, dd, del, dfn, div, dl, dt, em, fieldset, font, form, h1, h2, h3, h4, html, iframe, img, ins, kbd, label, legend, li, object, ol, p, pre, q, s, samp, small, span, strike, strong, sub, sup, table, thead, th, tbody, tr, td, tfoot, tt, u, ul, var {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	font-family: inherit;
+	font-weight:normal;
+	font-style: normal;
+	vertical-align: baseline;
+	white-space: normal;
+	text-align: left;
+	background-color: transparent;
+	color: black;
+}
+:focus {
+	outline: 0;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after, q:before, q:after {
+	content: '';
+	content: none;
+}
+del {
+	text-decoration: line-through;
+}
+ins {
+	text-decoration: none;
+}
+ol, ul {
+	list-style: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+thead td
+{
+  font-weight: bold;
+  border: 1px solid #000;
+}
+
+body {
+	font-family: Georgia, serif;
+	background: #999 url(../images/gradient2.png) top left repeat-x;
+}
+p {
+	font-size:1em;
+	line-height:18px;
+	margin: 18px 0 18px 0;
+}
+h1 {
+	font-size:1.8em;     /* 18px equivalent */
+	margin: 0 0 18px 0;    /* only bottom margin */
+}
+h1.home_header
+{
+  margin-top: 60px;
+  margin-left: 185px;
+  font-size: 3.2em;
+}
+h2 {
+	font-size:1.6em;    /* 16px equivalent */
+	margin: 10px 0 8px 0;
+	font-style: italic;
+}
+h3 {
+	font-size:1.4em;    /* 14px equivalent */
+	margin: 8px 0 8px 0;
+}
+h4 {
+	font-size: 1.2em;    /* 12px equivalent */
+	line-height: 18px;
+	margin:0;
+}
+h1, h2, h3, h4 {
+	font-family:"Century Gothic", sans-serif;
+	font-weight: bold;
+}
+
+
+/*	link defaults	*************************************/
+a, a strong {
+	color: #336699;
+	text-decoration: none;
+	font-size: 1em
+}
+a:hover {
+	text-decoration: underline;
+}
+
+a.viewMore {
+	font-size: 0.825em;
+}
+/*	end-link defaults	*********************************/
+abbr, acronym {
+	text-transform: uppercase;
+	font-size: 1em;
+	letter-spacing:1px;
+}
+abbr[title], acronym[title] {
+	cursor: help;
+	border-bottom: 1px dotted black;
+}
+/*	blockquotes	***************************************/
+blockquote {
+	background: #f5f5f5 left top no-repeat;
+	margin:0 20px;
+}
+blockquote span {
+	display: block;
+	background: right 100% no-repeat;
+	padding:10px 25px;
+}
+blockquote span p {
+	font: 1em/1.5 Georgia, Times, serif;
+	margin:0;
+}
+/*	end-blockquotes	***********************************/
+
+cite, em, i {
+	font-style:italic;
+}
+code, kbd, pre, samp, tt, var {
+	font-size: 1.1em;
+	font-family:"Courier New", Courier, monospace;
+}
+pre
+{
+  background-color: #ccc;
+  border: 1px dashed #000; 
+  padding: 5px;
+}
+del, s, strike {
+	text-decoration: line-through;
+}
+ins {
+	color:#f00;
+}
+/*	quotes	*******************************************/
+q {
+	quotes:"\201C""\201D""\2018""\2019";
+}
+q:before {
+	content:'\201C';
+}
+q:after {
+	content:'\201D';
+}
+q q:before {
+	content:'\2018';
+}
+q q:after {
+	content:'\2019';
+}
+/*	end-quotes	***************************************/
+
+/*	forms	*********************************************/
+
+fieldset {
+	
+}
+textarea {
+  height: 200px;
+}
+textarea, input[type='text'], input[type='password'], select {
+	font-family: inherit;
+	font-size: inherit;
+	border: 1px solid #ccc;
+	background: #fff;
+	width: 250px;
+	padding: 2px;
+}
+input[type='submit'] {
+	font-family: inherit;
+	font-size: inherit;
+	font-weight: bold;
+	border: 1px solid #fff;
+	background-color: #8a7d52;
+	color: #fff;
+	width: 257px;
+	padding: 2px;
+	margin-left: 85px;
+}
+textarea:hover, input[type='text']:hover, input[type='password']:hover, input[type='submit']:hover, select:hover {
+	border-color: #aaa;
+}
+input[type='submit']:hover {
+  cursor: pointer;
+}
+textarea:focus, input[type='text']:focus, input[type='password']:focus, select:focus {
+	outline: 2px solid #e4e4e4;
+	border-color: #888;
+}
+/*	end-forms	*****************************************/
+
+small {
+	font-size: 0.9em;
+}
+strong {
+	font-weight: bold;
+	color: inherit;
+}
+strong.red {
+	color: #bf1e2e;
+}
+strong.green {
+	color: #628d36;
+}
+
+sup {
+	font-size: 0.9em;
+	vertical-align: super;
+}
+sub {
+	font-size: 0.9em;
+	vertical-align: sub;
+}
+hr {
+	display: block;
+	background: #ccc;
+	color: #999;
+	width: 100%;
+	height: 1px;
+	border: none;
+}
+/*	tables *******************************************/
+/*	note: the following table attributes must be included 
+		in the html	so the border-style css works properly 
+		<table frame="hside" rules="groups"> */
+table {
+	border-bottom: 3px solid #e4e4e4;
+}
+th, td {
+	height: 20px;
+	padding: 5px;
+}
+/*	note: this caption will be displayed under the table, to the right and in italic.
+		however, IE6 will display above the table... of course */
+caption {
+	display: none;
+	caption-side: bottom;
+	font-size: 1em;
+	font-style: italic;
+	text-align: right;
+	padding: 6px 0;
+}
+/*	end-tables ***************************************/
+
+/*	html5 selectors	***********************************/
+article, aside, header, hgroup, nav, figure, section, footer {
+	display: block;
+}
+/*	end-html5 selectors	*******************************/
+
+/*	general classes	***********************************/
+.left {
+	float:left;
+}
+.right {
+	float:right;
+}
+.clear {
+	clear:both;
+}
+.inner {
+	padding:20px;
+}
+.inline {
+	display:inline-block;
+}
+
+h1
+{
+  font-family: Trajan, Arial, Helvetica, sans-serif;
+  color: #990000;
+}
+
+#pageWrap {
+	width: 960px;
+	padding: 20px;
+	margin: 25px auto;
+	color: #404042;
+	background-color: #fff;
+	overflow: hidden;
+	position:relative;
+	z-index:1;
+	font-size: 0.857em;
+	border: 1px solid #000;
+	height: auto;
+}
+
+.infoList li {
+	margin-bottom: 5px;
+	font-size: 1em;
+	color: #333;
+}
+.infoList li strong {
+	display: inline-block;
+	width: 85px;
+	color: #333;
+	vertical-align: top;
+}
+.infoList li span {
+  display: inline-block;
+  width: 380px;
+}
+.infoList li label {
+	color: #333;
+	font-weight: bold;
+	width: 85px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.adminForm li label
+{
+  color: #333;
+  font-weight: bold;
+  width: 185px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.adminForm input[type='submit'] {
+	font-family: inherit;
+	font-size: inherit;
+	font-weight: bold;
+	border: 1px solid #fff;
+	background-color: #8a7d52;
+	color: #fff;
+	width: 257px;
+	padding: 2px;
+	margin-left: 188px;
+}
+
+.dashboardMsg {
+	line-height: 20px;
+	padding: 8px 19px 8px 85px;
+	border: 1px solid #e9b2b7;
+	margin: 10px 0;
+	font-size: 1em;
+}
+.dashboardMsg.alert {
+	background: transparent url(../images/attention.png) 22px 8px no-repeat;
+	color: #666;
+}
+.dashboardMsg.alert a {
+	color: #666;
+	text-decoration: underline;
+}
+
+img#main_logo
+{
+  float: left;
+  padding-bottom: 5px;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-top: -18px;
+}
+
+#footer {
+	height: 45px;
+	line-height: 25px;
+	overflow: hidden;
+}
+.footerMenu li {
+	float: left;
+}
+.footerMenu li a {
+	font-size: 1em;
+	color:#454547;
+	text-transform: capitalize;
+	text-decoration: none;
+	padding: 0 5px;
+	border-left: 1px solid #dadada;
+}
+.footerMenu li a:hover {
+	text-decoration: underline;
+}
+.footerMenu li.first a {
+	border-left: none;
+	padding-left: 0;
+}
+.footerMenu li.last {
+	padding-right: 0;
+}
+.footerMenu li.copyright {
+	border-left: none;
+	padding: 0 10px 0 0;
+	font-size: 1em;
+	color: #7d7d7d;
+}
+
+#mainContent {
+	overflow: visible;
+	padding: 5px;
+	margin: 0;
+}
+
+.banner_bg {
+  background: transparent url(../images/web-banner_bg.png) repeat-x;
+  height: 72px;
+  width: 1120px;
+  margin-left: -25px;
+  margin-top: 160px;
+  margin-bottom: -78px;
+}
+
+#servicesHome {
+  width: 210px;
+  height: 590px;
+  border: 1px solid #000;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  float: left;
+  margin-left: 5.6em; 
+  background: url(../images/test-photo-1.jpg) top left no-repeat;
+  cursor: pointer;
+}
+
+#valueHome {
+  width: 210px;
+  height: 590px;
+  border: 1px solid #000;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  float: left;
+  margin-left: 5.6em;
+  background: url(../images/test-photo-2.jpg) top left no-repeat;
+  cursor: pointer;
+}
+
+#productsHome {
+  width: 210px;
+  height: 590px;
+  border: 1px solid #000;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  float: left;
+  margin-left: 5.6em;
+  background: url(../images/test-photo-3.jpg) top left no-repeat;
+  cursor: pointer;
+}
+
+table.grid
+{
+  border: 1px solid #000;
+  margin-top: 10px;
+}
+
+tr.odd
+{
+  background-color: #ccc;
+}
+
+.adminMenu
+{
+  float:left;
+  margin-right: 20px;
+  margin-top: 10px; 
+}
+
+.adminBody
+{
+  float: left;
+  margin-bottom: 30px;
+}

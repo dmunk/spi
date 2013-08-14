@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Demo Site"
+AuthUserFile /homepages/38/d412108070/htdocs/demo/passwords
+Require valid-user
