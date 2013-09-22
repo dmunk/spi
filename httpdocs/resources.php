@@ -45,4 +45,13 @@ require_once(PHP_INCLUDES."header.php");
       </div>
 <?php
 require_once(PHP_INCLUDES."footer.php");
+?>f="http://www.oliveoiltimes.com/" title="The Olive Oil Times" target="_blank"><img src="/images/olive_oil_times_logo.png" alt="Olive Oil Times logo" style="margin-left: -5px;" /></a></div>
+          <div class="middle" style="margin-left: 150px; height: 110px;">
+            <h4><a href="http://www.oliveoiltimes.com/" title="The Olive Oil Times" target="_blank" style="font-weight: bold;">The Olive Oil Times</a></h4>
+            <p>Olive Oil Times is the most-read source of news, reviews and analysis on the fascinating subject of olive oil. Their growing staff of expert contributors in every olive oil producing region provide timely information for consumers, industry professionals and olive oil enthusiasts.</p>
+          </div>
+        </div>
+      </div>
+<?php
+require_once(PHP_INCLUDES."footer.php");
 ?>
