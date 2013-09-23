@@ -12,7 +12,7 @@ if( $_SERVER['HTTP_HOST'] == 'www.spiritedpackaging.com' || $_SERVER['HTTP_HOST'
   $dbConfig['hostname'] = 'db434511885.db.1and1.com';
 }
 else
-  define( 'PHP_ROOT', 'C:/Program Files/Apache Software Foundation/Apache2.4/htdocs/spi/httpdocs/' );
+  define( 'PHP_ROOT', 'C:/Apache24/htdocs/spi/httpdocs/' );
 
 define( 'PHP_CLASSES', PHP_ROOT.'classes/' );
 define( 'PHP_INCLUDES', PHP_ROOT.'includes/' );

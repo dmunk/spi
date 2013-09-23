@@ -46,20 +46,6 @@ require_once(PHP_INCLUDES."header.php");
           <a href="lightweight-burgundy-dead-leaf-green-spi-2706dlg.php" title="Lightweight Burgundy wine bottle, Dead Leaf Green - SPI-2706DLG"><img src="/images/products/wine_bottles/lightweight-burgundy-dead-leaf-green-spi-2706dlg-thumb.jpg" alt="Lightweight Burgundy wine bottle, Dead Leaf Green - SPI-2706DLG" /></a>
           <div style="line-height: 20px; width: 150px; text-align: center;"><a href="lightweight-burgundy-dead-leaf-green-spi-2706dlg.php" title="Lightweight Burgundy wine bottle, Dead Leaf Green - SPI-2706DLG">SPI-2706DLG: Lightweight Burgundy, Dead Leaf Green</a></div>
         </div>
-        <div class="right" style="border: 1px solid #000; margin-bottom: 10px;">
-          <a href="burgundy-dead-leaf-green-spc-1202.php" title="Burgundy wine bottle, Dead Leaf Green - SPC-1202"><img src="/images/products/wine_bottles/burgundy-dead-leaf-green-spc-1202-thumb.jpg" alt="Burgundy wine bottle, Dead Leaf Green - SPC-1202" /></a>
-          <div style="line-height: 20px; width: 150px; text-align: center;"><a href="wine_bottles/burgundy/burgundy-dead-leaf-green-spc-1202.php" title="Burgundy wine bottle, Dead Leaf Green - SPC-1202">SPC-1202: Burgundy, Dead Leaf Green</a></div>
-        </div>
-      </div>
-      <div class="clear">
-        <div class="left" style="border: 1px solid #000; margin-bottom: 10px;">
-          <a href="burgundy-bar-top-dead-leaf-green-spc-12011.php" title="Burgundy bar top wine bottle, Dead Leaf Green - SPC-12011"><img src="/images/products/wine_bottles/burgundy-bar-top-dead-leaf-green-spc-12011-thumb.jpg" alt="Burgundy bar top wine bottle, Dead Leaf Green - SPC-12011" /></a>
-          <div style="line-height: 20px; width: 150px; text-align: center;"><a href="burgundy-bar-top-dead-leaf-green-spc-12011.php" title="Burgundy bar top wine bottle, Dead Leaf Green - SPC-12011">SPC-12011: Burgundy bar top, Dead Leaf Green</a></div>
-        </div>
-        <div class="left" style="border: 1px solid #000; margin-left: 260px; margin-bottom: 10px;">
-          <a href="tall-burgundy-screw-top-antique-green-spc-12012.php" title="Tall Burgundy screw top wine bottle, Antique Green - SPC-12012"><img src="/images/products/wine_bottles/tall-burgundy-screw-top-antique-green-spc-12012-thumb.jpg" alt="Tall Burgundy screw top wine bottle, Antique Green - SPC-12012" /></a>
-          <div style="line-height: 20px; width: 150px; text-align: center;"><a href="tall-burgundy-screw-top-antique-green-spc-12012.php" title="Tall Burgundy screw top wine bottle, Antique Green - SPC-12012">SPC-12012: Tall Burgundy screw top, Antique Green</a></div>
-        </div>
       </div>
       <hr />
       <p>Please feel free to contact us about any of the products listed above, or to discuss your glass and packaging needs in general:

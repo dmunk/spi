@@ -21,61 +21,6 @@
       <priority>1.0</priority>
    </url>
    <url>
-      <loc>http://www.spiritedpackaging.com/product_catalog/wine_bottles/claret_bordeaux/tapered-bordeaux-misty-green-spc-1201.php</loc>
-      <changefreq>monthly</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>http://www.spiritedpackaging.com/product_catalog/wine_bottles/claret_bordeaux/tapered-bordeaux-flint-spc-1203.php</loc>
-      <changefreq>monthly</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>http://www.spiritedpackaging.com/product_catalog/wine_bottles/claret_bordeaux/tapered-bordeaux-emerald-green-spc-1204.php</loc>
-      <changefreq>monthly</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>http://www.spiritedpackaging.com/product_catalog/wine_bottles/claret_bordeaux/standard-bordeaux-antique-green-spc-1205.php</loc>
-      <changefreq>monthly</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>http://www.spiritedpackaging.com/product_catalog/wine_bottles/claret_bordeaux/tapered-bordeaux-bar-top-flint-spc-1206.php</loc>
-      <changefreq>monthly</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>http://www.spiritedpackaging.com/product_catalog/wine_bottles/claret_bordeaux/tall-tapered-bordeaux-screw-top-flint-spc-1207.php</loc>
-      <changefreq>monthly</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>http://www.spiritedpackaging.com/product_catalog/wine_bottles/claret_bordeaux/tall-tapered-bordeaux-bar-top-antique-green-spc-1208.php</loc>
-      <changefreq>monthly</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>http://www.spiritedpackaging.com/product_catalog/wine_bottles/claret_bordeaux/bordeaux-screw-top-antique-green-spc-1209.php</loc>
-      <changefreq>monthly</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>http://www.spiritedpackaging.com/product_catalog/wine_bottles/claret_bordeaux/tapered-bordeaux-tall-punt-antique-green-spc-12010.php</loc>
-      <changefreq>monthly</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>http://www.spiritedpackaging.com/product_catalog/wine_bottles/claret_bordeaux/standard-bordeaux-emerald-green-spc-12013.php</loc>
-      <changefreq>monthly</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>http://www.spiritedpackaging.com/product_catalog/wine_bottles/claret_bordeaux/standard-bordeaux-bar-top-emerald-green-spc-12014.php</loc>
-      <changefreq>monthly</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
       <loc>http://www.spiritedpackaging.com/product_catalog/wine_bottles/claret_bordeaux/standard-bordeaux-antique-green-spi-1006ag.php</loc>
       <changefreq>monthly</changefreq>
       <priority>1.0</priority>
@@ -113,26 +58,6 @@
    <url>
       <loc>http://www.spiritedpackaging.com/product_catalog/wine_bottles/burgundy/</loc>
       <changefreq>weekly</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>http://www.spiritedpackaging.com/product_catalog/wine_bottles/burgundy/burgundy-dead-leaf-green-spc-1202.php</loc>
-      <changefreq>monthly</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>http://www.spiritedpackaging.com/product_catalog/wine_bottles/burgundy/burgundy-bar-top-dead-leaf-green-spc-12011.php</loc>
-      <changefreq>monthly</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>http://www.spiritedpackaging.com/product_catalog/wine_bottles/burgundy/tall-burgundy-screw-top-antique-green-spc-12012.php</loc>
-      <changefreq>monthly</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>http://www.spiritedpackaging.com/product_catalog/wine_bottles/burgundy/standard-burgundy-antique-green-spi-2006ag.php</loc>
-      <changefreq>monthly</changefreq>
       <priority>1.0</priority>
    </url>
    <url>
@@ -186,28 +111,8 @@
       <priority>1.0</priority>
    </url>
    <url>
-      <loc>http://www.spiritedpackaging.com/product_catalog/olive_oil_bottles/187_ml/</loc>
-      <changefreq>weekly</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>http://www.spiritedpackaging.com/product_catalog/olive_oil_bottles/187_ml/187-ml-bordeaux-screw-top-antique-green-spc-12016.php</loc>
-      <changefreq>monthly</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>http://www.spiritedpackaging.com/product_catalog/olive_oil_bottles/187_ml/187-ml-bordeaux-screw-top-flint-spc-12017.php</loc>
-      <changefreq>monthly</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
       <loc>http://www.spiritedpackaging.com/product_catalog/olive_oil_bottles/375_ml/</loc>
       <changefreq>weekly</changefreq>
-      <priority>1.0</priority>
-   </url>
-   <url>
-      <loc>http://www.spiritedpackaging.com/product_catalog/olive_oil_bottles/375_ml/375-ml-antique-green-spc-12375a.php</loc>
-      <changefreq>monthly</changefreq>
       <priority>1.0</priority>
    </url>
    <url>

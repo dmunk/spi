@@ -75,12 +75,12 @@ if( empty( $metaDescription ) )
   				        <li><a href="/product_catalog/wine_bottles/claret_bordeaux/" title="Spirited Packaging - Product Catalog - Wine Bottles - Claret/Bordeaux">Claret/Bordeaux</a></li>
   				        <li><a href="/product_catalog/wine_bottles/burgundy/" title="Spirited Packaging - Product Catalog - Wine Bottles - Burgundy">Burgundy</a></li>
   				        <li><a href="/product_catalog/wine_bottles/hock/" title="Spirited Packaging - Product Catalog - Wine Bottles - Hock">Hock</a></li>
+  				        <li><a href="/product_catalog/wine_bottles/small_lots/" title="Spirited Packaging - Product Catalog - Wine Bottles - Small Lots">Small Lots</a></li>
   				      </ul>
   				    </li>
       				<li>
       				  <a href="/product_catalog/olive_oil_bottles/" title="Spirited Packaging - Product Catalog - Specialty &amp; Olive Oil Bottles">Specialty &amp; Olive Oil Bottles</a>
       				  <ul>
-      				    <li><a href="/product_catalog/olive_oil_bottles/187_ml/" title="Spirited Packaging - Product Catalog - Specialty &amp; Olive Oil Bottles - 187ml">187ml</a></li>
       				    <li><a href="/product_catalog/olive_oil_bottles/375_ml/" title="Spirited Packaging - Product Catalog - Specialty &amp; Olive Oil Bottles - 375ml">375ml</a></li>
       				  </ul>
       				</li>
@@ -99,7 +99,7 @@ if( empty( $metaDescription ) )
 		    	<li>
 				    <a href="/resources.php">Information</a>
     				<ul>
-  	    			<li><a href="/resources.php" title="Spirited Packaging - Affiliations &amp; Resources">Affiliations &amp; Resources</a></li>
+  	    			<li><a href="/resources.php" title="Spirited Packaging - Resources">Resources</a></li>
 				    </ul>
 			    </li>
 		    </ul>

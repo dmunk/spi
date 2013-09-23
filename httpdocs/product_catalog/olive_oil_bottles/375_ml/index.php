@@ -11,20 +11,14 @@ require_once(PHP_INCLUDES."header.php");
       </p>
       <div class="clear">
         <div class="left" style="border: 1px solid #000; margin-bottom: 10px;">
-          <a href="375-ml-antique-green-spc-12375a.php" title="375ml olive oil bottle, Antique Green - SPC-12375A"><img src="/images/products/wine_bottles/375-ml-bordeaux-antique-green-spc-12375a-thumb.jpg" alt="375ml olive oil bottle, Antique Green - SPC-12375A" /></a>
-          <div style="line-height: 20px; width: 150px; text-align: center;"><a href="375-ml-antique-green-spc-12375a.php" title="375ml olive oil bottle, Antique Green - SPC-12375A">SPC-12375A: 375ml Olive Oil, Antique Green</a></div>
-        </div>
-        <div class="left" style="border: 1px solid #000; margin-left: 190px; margin-bottom: 10px;">
           <a href="375-ml-bellissima-antique-green-spi-4006ag.php" title="375ml Bellissima olive oil bottle, Antique Green - SPI-4006AG"><img src="/images/products/wine_bottles/375-ml-bellissima-ice-wine-antique-green-spi-4006ag-thumb.jpg" alt="375ml Bellissima olive oil bottle, Antique Green - SPI-4006AG" /></a>
           <div style="line-height: 20px; width: 150px; text-align: center;"><a href="375-ml-bellissima-antique-green-spi-4006ag.php" title="375ml Bellissima olive oil bottle, Antique Green - SPI-4006AG">SPI-4006AG: 375ml Bellissima, Antique Green</a></div>
         </div>
-        <div class="right" style="border: 1px solid #000; margin-bottom: 10px;">
+        <div class="left" style="border: 1px solid #000; margin-left: 190px; margin-bottom: 10px;">
           <a href="375-ml-bellissima-flint-spi-4006fl.php" title="375ml Bellissima olive oil bottle, Flint - SPI-4006FL"><img src="/images/products/wine_bottles/375-ml-bellissima-ice-wine-flint-spi-4006fl-thumb.jpg" alt="375ml Bellissima olive oil bottle, Flint - SPI-4006FL" /></a>
           <div style="line-height: 20px; width: 150px; text-align: center;"><a href="375-ml-bellissima-flint-spi-4006fl.php" title="375ml Bellissima olive oil bottle, Flint - SPI-4006FL">SPI-4006FL: 375ml Bellissima, Flint</a></div>
         </div>
-      </div>
-      <div class="clear">
-        <div class="left" style="border: 1px solid #000; margin-left: 343px; margin-bottom: 10px;">
+        <div class="right" style="border: 1px solid #000; margin-bottom: 10px;">
           <a href="375-ml-bordeaux-antique-green-spi-106ag.php" title="375ml Bordeaux bottle, Antique Green - SPI-106AG"><img src="/images/products/wine_bottles/375-ml-bordeaux-antique-green-spi-106ag-thumb.jpg" alt="375ml Bordeaux bottle, Antique Green - SPI-106AG" /></a>
           <div style="line-height: 20px; width: 150px; text-align: center;"><a href="375-ml-bordeaux-antique-green-spi-106ag.php" title="375ml Bordeaux bottle, Antique Green - SPI-106AG">SPI-106AG: 375ml Bordeaux, Antique Green</a></div>
         </div>
